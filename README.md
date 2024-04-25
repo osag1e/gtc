@@ -1,3 +1,3 @@
 # gtc
 
-![GTC](https://github.com/osag1e/gtc/blob/main/image/GTC.png)
+![gtc](https://github.com/osag1e/gtc/blob/main/image/gtc.png)
