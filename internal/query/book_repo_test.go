@@ -17,7 +17,7 @@ import (
 	"github.com/testcontainers/testcontainers-go/wait"
 )
 
-func TestProductStore(t *testing.T) {
+func TestBookStore(t *testing.T) {
 	container, sqlDB, err := SetupTestDatabase()
 	if err != nil {
 		t.Fatal(err)
